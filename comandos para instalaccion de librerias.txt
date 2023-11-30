@@ -1,0 +1,17 @@
+Para crear y activar entorno virtual:
+ py -3 -m venv .venv
+ .venv\Scripts\activate
+
+Para installar librerias:
+ pip install flask
+ pip install flask_wtf
+ pip install python-dotenv
+ pip install flask_sqlalchemy
+ pip install dash 
+ pip install folium 
+ pip install flask_login
+ pip install pandas 
+ 
+
+espero no haberme olvidado de alguno xd 
+mucha suerte al mejor grupo :p 
